@@ -28,7 +28,7 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-perht = { path = "./perth" }
+perth = { path = "./perth" }
 
 [tool.uv.workspace]
 members = [
