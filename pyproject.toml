@@ -34,4 +34,5 @@ perht = { path = "./perth" }
 members = [
     "examples/basic",
     "examples/advanced",
+    "tests",
 ]
