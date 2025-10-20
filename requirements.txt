@@ -17,5 +17,5 @@ tqdm>=4.61.2
 tensorboard>=2.10.1
 pyYaml>=5.4.1
 pydub
-torch==2.1.1
-torchaudio==2.1.1
+torch>=2.1.1
+torchaudio>=2.1.1
